@@ -1,0 +1,6 @@
+SELECT *
+FROM transacoes
+WHERE id_loja IN ('magalu', 'subway') AND valor > 10;
+
+
+

@@ -1,0 +1,5 @@
+SELECT *
+FROM transacoes
+WHERE valor > 30
+  AND id_loja = 'magalu';
+

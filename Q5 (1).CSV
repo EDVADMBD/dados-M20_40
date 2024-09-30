@@ -1,0 +1,4 @@
+SELECT *
+FROM transacoes
+WHERE id_loja LIKE 'mag%';
+
