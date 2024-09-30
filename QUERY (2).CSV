@@ -1,0 +1,2 @@
+SELECT DISTINCT id_cliente, valor, id_loja AS nome_loja 
+FROM transacoes;

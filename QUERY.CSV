@@ -1,0 +1,6 @@
+SELECT id_cliente, valor 
+FROM transacoes 
+ORDER BY valor DESC 
+LIMIT 2;
+
+
